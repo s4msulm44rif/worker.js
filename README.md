@@ -1,4 +1,4 @@
-# Welcome to Nautica
+# Welcome
 
 Sebuah repository serverless tunnel studi kasus Indonesia
 
