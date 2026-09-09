@@ -1,6 +1,6 @@
 
 47.74.254.191# SG,Alibaba Cloud - SG
-36.95.152.58# ID,Kumitir-Mojokerto
+36.95.152.58# ID,Kumitir Mojokerto
 146.235.18.248# SG,Oracle Corporation
 138.2.74.219# SG,Cloudflare London, LLC
 129.150.36.188# SG,Oracle Corporation
