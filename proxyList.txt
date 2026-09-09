@@ -1,4 +1,26 @@
 36.95.152.58# ID,Kumitir Mojokerto
+45.60.186.91# ID,Incapsula
+103.133.223.50# ID,Cloud Teknologi Nusantara
+103.168.146.169# ID,Herza.ID
+43.133.145.156# ID,Shenzhen Tencent Computer Systems Company Limited
+172.232.239.249# ID,Akamai Connected Cloud
+35.219.50.99# ID,Google LLC
+43.218.77.16# ID,Amazon.com
+203.194.112.119# ID,CV Rumahweb Indonesia
+172.232.239.147# ID,Akamai Connected Cloud
+172.232.239.151# ID,Akamai Technologies Inc
+103.133.223.51# ID,PT Cloud Teknologi Nusantara
+203.194.112.119# ID,Rumahweb
+103.186.1.209# ID,PT Cloud Hosting Indonesia
+103.133.223.52# ID,Cloud Teknologi Nusantara
+172.232.231.24# ID,Akamai Connected Cloud
+8.218.107.145# ID,PT Cloud Hosting Indonesia
+8.215.196.18# ID,Alibaba
+35.219.15.90# ID,Google Cloud
+36.95.152.58# ID,PT Telkom Indonesia
+43.218.77.16# ID,Amazoncom
+103.6.207.108# ID,PT Pusat Media Indonesia
+172.232.237.112# ID,Akamai Connected Cloud
 47.74.254.191# SG,Alibaba Cloud - SG
 146.235.18.248# SG,Oracle Corporation
 138.2.74.219# SG,Cloudflare London, LLC
